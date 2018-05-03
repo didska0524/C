@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\seoil\desktop\c\c\20180503\consoleapplication6\consoleapplication6\소스.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  ConsoleApplication6.vcxproj -> C:\Users\seoil\Desktop\c\C\20180503\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\seoil\Desktop\c\C\20180503\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)
